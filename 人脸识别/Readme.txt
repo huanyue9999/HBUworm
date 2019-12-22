@@ -1,0 +1,4 @@
+该代码中的三个path路径需要自己配置
+pathj：配置需要识别的人脸图片，尽量使用正脸
+pathf：配置文件夹下的 haarcascade_frontalface_default.xml
+pathe：配置文件夹下的 haarcascade_eye.xml
